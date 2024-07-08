@@ -18,7 +18,7 @@ const Navbar = () => {
       <a
         className="flex items-center gap-2 rounded-full border border-pink-200 w-35 h-10 hover:bg-purple-500 cursor-pointer"
         target="_blank"
-        href="https://github.com/PRITAMSLEARNINGACCOUNT/Secure-Vault"
+        href="https://github.com/PRITAMSLEARNINGACCOUNT/Basic-Todo-App"
       >
         <img src={GithubLogo} alt="Logo" className="w-10 h-10 " />
         <button type="button" className="w-30 font-bold">
